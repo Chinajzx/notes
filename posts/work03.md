@@ -1,10 +1,6 @@
-# 如何在 ubuntu 下安装搜狗输入法
+# 如何在 labwindows中 做一个点名程序
 
-日期：2015-09-27 22:47
-
-网址：<http://www.jianshu.com/p/a0c64adaedd4>
-
----
+日期：2016年9月16日
 
 在 linux 下要打中文要借助 fcitx 的帮助。
 
